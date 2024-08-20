@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Network Intrusion Detection and Prevention'
+copyright = '2024, Elie Kfoury'
+author = 'Elie Kfoury'
 
 release = '0.1'
 version = '0.1.0'
