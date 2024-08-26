@@ -47,7 +47,7 @@ Flushing the MAC Address Table
 **Step 3.** Flush the MAC address table on the switch to clear any existing entries.
 
    - Switch to the root user::
-
+      
       sudo su
 
    - Flush the MAC address table::
